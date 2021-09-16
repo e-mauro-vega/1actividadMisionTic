@@ -5,3 +5,8 @@ Rol:Product owner
 
 
 Mi nombre es nelson mendivelso, ing industrial, 40 años, mi rol ser el de administrador bd.
+
+NOMBRE Juan Carlos orozco
+Ingeniero físico 
+Edad 46 años 
+Rol product owner 
