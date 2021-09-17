@@ -2,3 +2,9 @@ Nombre: Elkin Mauricio Vega
 Profesión: Adm Industrial
 cc:78762607
 Rol:Product owner
+
+
+Nombre: Jhon Alexander Niño
+Profesión: Ing Metalúrgico
+cc:1051240490
+Rol:Scrum Master
