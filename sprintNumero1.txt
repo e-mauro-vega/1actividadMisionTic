@@ -3,23 +3,23 @@ Profesión: Adm Industrial
 cc:78762607
 Rol:Product owner
 
-
-
-
-
-
-
-
-
-
-
 Nombre: Nelson Mendivelso.
 Profesión:Ing Industrial
 Edad: 40 años
 Rol:Administrador bd.
 
-
 NOMBRE Juan Carlos orozco
 Ingeniero físico 
 Edad 46 años 
 Rol product owner 
+
+Nombre: Jhon Alexander Niño
+Profesión: Ing Metalúrgico
+cc:1051240490
+Rol:Scrum Master
+
+Nombre: Camilo Montoya Pérez
+Profesión: Ing Telecomunicaciones
+cc: 1017140691
+Rol: Analista
+
