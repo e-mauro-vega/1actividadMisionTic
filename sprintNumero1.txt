@@ -11,7 +11,7 @@ Rol:Administrador bd.
 NOMBRE Juan Carlos orozco
 Ingeniero físico 
 Edad 46 años 
-Rol product owner 
+Rol Desarrollador
 
 Nombre: Jhon Alexander Niño
 Profesión: Ing Metalúrgico
