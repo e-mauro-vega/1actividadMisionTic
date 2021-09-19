@@ -3,7 +3,13 @@ Profesión: Adm Industrial
 cc:78762607
 Rol:Product owner
 
+Nombre: Jhon Alexander Niño
+Profesión: Ing Metalúrgico
+cc:1051240490
+Rol:Scrum Master
+
 Nombre: Camilo Montoya Pérez
 Profesión: Ing Telecomunicaciones
 cc: 1017140691
 Rol: Analista
+
